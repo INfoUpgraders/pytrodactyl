@@ -1,4 +1,4 @@
-# fatcat
+# pytrodactyl
 [![Official Discord](https://discord.com/api/guilds/712539689638428713/embed.png)](https://discord.gg/74VkcwV) [![Official PyPi](https://img.shields.io/pypi/v/fatcat.svg)](https://pypi.python.org/pypi/fatcat) [![Python Versions](https://img.shields.io/pypi/pyversions/fatcat.svg)](https://pypi.python.org/pypi/fatcat)
 
 A package written in Python to manage your servers, pterodactyl servers, and more for FatCat Hosting.
