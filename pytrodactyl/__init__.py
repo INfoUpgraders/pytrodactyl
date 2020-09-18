@@ -5,4 +5,3 @@ class Server:
         self.url = url
         self.text = text
         self.plain = plain
-
