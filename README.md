@@ -22,7 +22,6 @@ py -3 -m pip install -U pytrodactyl
 
 ## Examples
 
-```
 
 ## Links
 - [Documentation](https://pytrodactyl.readthedocs.io/en/latest/)

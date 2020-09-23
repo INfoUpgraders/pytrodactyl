@@ -33,7 +33,6 @@ py -3 -m pip install -U pytrodactyl
 
 ## Examples
 
-```
 
 ## Links
 - [Documentation](https://pytrodactyl.readthedocs.io/en/latest/)
@@ -53,7 +52,7 @@ setup(name='pytrodactyl',
         "Documentation": "https://pytrodactyl.readthedocs.io/en/latest/",
         "Issue tracker": "https://github.com/INfoUpgraders/pytrodactyl/issues",
       },
-      version='0.0.1',
+      version='0.0.2',
       packages=find_packages(),
       license='MIT',
       description='An API Wrapper for the Pterodactyl Panel.',
